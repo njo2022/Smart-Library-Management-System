@@ -1,4 +1,4 @@
-# 🏫 Système de Gestion de Bibliothèque - Refactorisation JavaScript
+# 🏫 Système de Gestion de Bibliothèque
 
 ### ✨ Caractéristiques principales
 
