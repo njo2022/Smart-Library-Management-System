@@ -1,0 +1,26 @@
+{
+  "name": "smart-library-management-system",
+  "version": "1.0.0",
+  "description": "Système de Gestion de Bibliothèque Universitaire - Refactorisation JavaScript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node test_systeme.js",
+    "demo": "node main.js"
+  },
+  "keywords": [
+    "bibliotheque",
+    "gestion",
+    "JavaScript",
+    "POO",
+    "Design Patterns",
+    "Singleton",
+    "Factory",
+    "Observer"
+  ],
+  "author": "Smart Library Team",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
