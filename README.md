@@ -4,7 +4,6 @@
 
 - **3 Design Patterns implémentés** : Singleton, Factory, Observer
 - **Modularité complète** : 3 sous-systèmes indépendants (utilisateurs, livres, emprunts)
-- **100% en français** : Tous les noms de classes, méthodes et variables
 - **Gestion d'emprunts avancée** : Calculs de dates, délais, permissions
 - **Suite de tests complète** : 43 assertions, 100% de réussite
 - **CommonJS modules** : Compatible Node.js
